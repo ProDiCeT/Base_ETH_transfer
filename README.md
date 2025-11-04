@@ -1,4 +1,4 @@
-💸 Base ETH Transfer (Streamlit App)
+💸 Base ETH Transfer
 
 A simple Streamlit web app for transferring ETH on the Base Network, supporting both Base Mainnet and Base Sepolia Testnet.
 It provides a minimal, secure, and user-friendly interface to send ETH and view the transaction on BaseScan.
