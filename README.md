@@ -8,7 +8,7 @@ It provides a minimal, secure, and user-friendly interface to send ETH and view 
 
 - Choose between Base Mainnet or Base Sepolia Testnet
 
-- Secure private key input (hidden by default)
+- Secure private key input
 
 - Automatic gas estimation and transaction signing
 
