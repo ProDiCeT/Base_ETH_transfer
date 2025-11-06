@@ -33,9 +33,7 @@ streamlit run Base_ETH_transfer.py
 
 By default, the app connects to:
 
-Base Mainnet: https://mainnet.base.org
-
-Base Sepolia Testnet: https://sepolia.base.org
+Base Mainnet: https://mainnet.base.org or Base Sepolia Testnet: https://sepolia.base.org
 
 You can easily switch networks using the dropdown menu in the interface.
 
