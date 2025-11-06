@@ -40,7 +40,7 @@ You can easily switch networks using the dropdown menu in the interface.
 
 🔒 Security note
 
-Your private key is never stored or transmitted — it only exists locally in your browser session.
+Your private key is never stored or transmitted, it only exists locally in your browser session.
 
 For testing, always use a fresh test wallet on the Base Sepolia Testnet before using your main wallet.
 
