@@ -6,7 +6,7 @@ It provides a minimal, secure, and user-friendly interface to send ETH and view 
 
 🚀 Features
 
-- Choose between Base Mainnet or Base Sepolia Testnet
+- Choose between Base Mainnet / Base Sepolia Testnet
 
 - Secure private key input
 
