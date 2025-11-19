@@ -47,4 +47,4 @@ For testing, always use a fresh test wallet on the Base Sepolia Testnet before u
 
 🧠 Author
 
-Developed with ❤️ by dnapog.base.eth for the Base.
+Developed with ❤️ by dnapog.base.eth
