@@ -35,7 +35,7 @@ By default, the app connects to:
 
 Base Mainnet: https://mainnet.base.org or Base Sepolia Testnet: https://sepolia.base.org
 
-You can easily switch networks using the dropdown menu in the interface.
+You can easily switch networks using the dropdown menu.
 
 
 🔒 Security note
